@@ -19,3 +19,4 @@ Este repositório já tem a base de churn (`cancelamentos.csv`) que vai ser usad
 | Data | O que fiz |
 |---|---|
 | 17/10/2026 | Montei o plano de estudos e organizei este arquivo |
+| 19/10/2026 | Início da fase 1. Sessão de hoje: Python, depois inglês e Linux |
