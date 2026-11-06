@@ -26,7 +26,7 @@ Uma empresa com alta taxa de clientes inativos precisava entender por que os cli
 
 ## Como rodar
 ```bash
-pip install pandas plotly nbformat jupyter
+pip install -r requirements.txt
 jupyter notebook inicial.ipynb
 ```
 
