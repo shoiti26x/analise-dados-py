@@ -23,6 +23,8 @@ Uma empresa com alta taxa de clientes inativos precisava entender por que os cli
 |---|---|
 | `inicial.ipynb` | Notebook com toda a análise |
 | `cancelamentos.csv` | Base de clientes usada na análise |
+| `requirements.txt` | Bibliotecas necessárias para rodar o projeto |
+| `.gitignore` | Arquivos temporários que não vão para o GitHub |
 
 ## Como rodar
 ```bash
