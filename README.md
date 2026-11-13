@@ -35,6 +35,15 @@ jupyter notebook inicial.ipynb
 O arquivo `cancelamentos.csv` precisa estar na mesma pasta do notebook.
 
 ## Principais insights
+
+Taxa de cancelamento por tipo de contrato:
+
+| Contrato | Clientes | Cancelaram |
+|---|---|---|
+| Mensal | 9.884 | 100,0% |
+| Trimestral | 19.956 | 45,9% |
+| Anual | 20.156 | 46,4% |
+
 - **Contrato mensal é o maior fator de risco:** todos os clientes com contrato mensal cancelaram o serviço. Ação sugerida: oferecer desconto para migração para contrato trimestral ou anual.
 - **Mais de 4 ligações ao call center indicam cancelamento quase certo:** 99% dos clientes que ligaram mais de 4 vezes cancelaram. Ação sugerida: alerta interno a partir de 3 ligações, sinalizando problema não resolvido.
 - **Atraso de pagamento acima de 20 dias** também leva ao cancelamento em praticamente todos os casos. Ação sugerida: alerta a partir de 15 dias de atraso, para ação preventiva antes do cancelamento.
